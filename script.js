@@ -1,4 +1,4 @@
-// Example data for search results
+// Example
 const data = {
   beach: [
     { name: "Maldives", img: "assets/beach-1.jpg" },
@@ -14,7 +14,7 @@ const data = {
   ],
 };
 
-// Mapping keywords to categories
+// Mapping
 const keywordMap = {
   beach: "beach",
   temple: "temple",
